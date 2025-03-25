@@ -1,5 +1,5 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==0.9.1
+pytgcalls==2.1.0
 yt-dlp==2024.03.10
 ffmpeg-python==0.2.0
